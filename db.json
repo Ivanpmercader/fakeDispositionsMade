@@ -1,0 +1,8 @@
+{
+  "dispensaciones" : [
+    { "RUT": "12345678-Q", "paciente": "Mariel Alvarez", "idProducto": "1d", "nombreProducto": "1r- ProductoPrueba1", "importe": "30€", "cantidad": 1, "fecha": "20/02/18", "incidencia": "Error en la dispensacion"},
+    { "RUT": "12345678-Q", "paciente": "Mariel Alvarez", "idProducto": "2d", "nombreProducto": "2r- ProductoPrueba1", "importe": "3€", "cantidad": 2, "fecha": "02/03/18"},
+    { "RUT": "12345678-Q", "paciente": "Mariel Alvarez", "idProducto": "3d", "nombreProducto": "3r- ProductoPrueba1", "importe": "10€", "cantidad": 1, "fecha": "10/04/19"},
+    { "RUT": "12345678-Q", "paciente": "Mariel Alvarez", "idProducto": "4d", "nombreProducto": "4r- ProductoPrueba1", "importe": "15€", "cantidad": 3, "fecha": "08/05/19", "incidencia": "Error en la dispensacion"},
+  ]
+}
