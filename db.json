@@ -1,0 +1,36 @@
+{
+  "dispensaciones": [
+    {
+      "RUT": "12345678-Q",
+      "paciente": "Mariel Alvarez",
+      "idProducto": "1r",
+      "nombreProducto": "1r- ProductoPrueba1",
+      "importe": "3€",
+      "cantidad": 1
+    },
+    {
+      "RUT": "12345678-Q",
+      "paciente": "Mariel Alvarez",
+      "idProducto": "2r",
+      "nombreProducto": "2r- ProductoPrueba1",
+      "importe": "30€",
+      "cantidad": 2
+    },
+    {
+      "RUT": "12345678-Q",
+      "paciente": "Mariel Alvarez",
+      "idProducto": "3r",
+      "nombreProducto": "3r- ProductoPrueba1",
+      "importe": "15€",
+      "cantidad": 1
+    },
+    {
+      "RUT": "12345678-Q",
+      "paciente": "Mariel Alvarez",
+      "idProducto": "4r",
+      "nombreProducto": "4r- ProductoPrueba1",
+      "importe": "10€",
+      "cantidad": 3
+    }
+  ]
+}
